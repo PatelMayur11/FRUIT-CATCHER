@@ -1,1 +1,2 @@
-# FRUIT-CATCHER
+# synchronousBallMovement
+Ball moving synchronously
